@@ -1,16 +1,44 @@
-### Hi there 👋
+<h2 align='center'> Hello World! 👋🏻 👩‍💻</h2> 
 
-<!--
-**syedmdsaifihassan/syedmdsaifihassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp> 
+    Here as an undergrad, Full-stack developer, who enjoys to experiment with new technologies, building small to big projects, and occassionally sleeps.💀.
+    In my free time apart from reading tech blogs, I make a habit of journaling my day and mordantly, I kvell in being a logophile. 
+ </samp>
+ 
+ 
+<hr>
+<h4 align='center'> ⚙ My Tech Stack presently includes...</h4>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align='center'> Development</h5>
+<p align='center'>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" /> <br> <br>
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
+</p>
+<hr>
+<h5 align='center'> Programming</h5>
+<p align='center'>
+  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/C++%20-%23A8B9CC.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <br> <br>
+</p>
+<hr>
+<h5 align='center'> Databases</h5>
+<p align='center'>
+   <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> <br> <br>
+</p>
+<hr>
+<br>
+<h3  align='center'>Find me around the web 🌎 to know more! 💃 </h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/syedmdsaifihassan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:syedsaifihassan@gmail.com?subject=Olá%20Juveria"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/syedmdsaifihassan"><img src="https://img.shields.io/badge/instagram-%23E0487F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
