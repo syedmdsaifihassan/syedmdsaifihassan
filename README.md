@@ -25,13 +25,6 @@
   <img src="https://img.shields.io/badge/C++%20-%23A8B9CC.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /> <br> <br>
 </p>
 <hr>
-/*<h5 align='center'> Databases</h5>
-<p align='center'>
-   <img  src="https://img.shields.io/badge/mongoDB%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=green" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/firebase%20-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" /> <br> <br>
-</p>*/
-<hr>
 <br>
 <h3  align='center'>Find me around the web 🌎 to know more!</h3>
 <p align='center'>
