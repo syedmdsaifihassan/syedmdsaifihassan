@@ -1,9 +1,9 @@
-<h2 align='center'> Hello World! 👋🏻 💻</h2> 
+<h2 align='center'> Hi! This is S A I F I! 👋🏻 💻</h2> 
 
 <p align="center">
   <samp> 
-    Here as an undergrad, Full-stack developer, who enjoys to experiment with new technologies, building small to big projects, and occassionally sleeps.💀.
-    In my free time apart from reading tech blogs, I make a habit of journaling my day and mordantly, I kvell in being a logophile. 
+    Here as an undergrad, Full-stack developer, Editor, who enjoys to experiment with new technologies, building small to big projects.
+    In my free time, i love to do some editing photos, making posters.
  </samp>
  
  
