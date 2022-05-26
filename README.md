@@ -2,7 +2,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=syedmdsaifihassan&label=Profile Views&color=blue&style=plastic" alt="syedmdsaifihassan" /> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Md%20Saifi%20Hassan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedmdsaifihassan/)](https://www.linkedin.com/in/syedmdsaifihassan/) 
-
 [![Gmail Badge](https://img.shields.io/badge/syedsaifihassan@gmail.com-D02B07?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syedsaifihassan@gmail.com)](mailto:syedsaifihassan@gmail.com)
 
 
