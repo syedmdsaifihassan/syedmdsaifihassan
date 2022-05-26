@@ -1,38 +1,31 @@
-<h2 align='center'> Hi! This is S A I F I! 👋🏻 💻</h2> 
+### Hi 👋, Welcome! 👨‍💻 
+<img align="right" src="https://komarev.com/ghpvc/?username=syedmdsaifihassan&label=Profile Views&color=blue&style=plastic" alt="syedmdsaifihassan" /> 
 
-<p align="center">
-  <samp> 
-    Here as an undergrad, Full-stack developer, Editor, who enjoys to experiment with new technologies, building small to big projects.
-    In my free time, i love to do some editing photos, making posters.
- </samp>
- 
- 
-<hr>
-<h4 align='center'> ⚙ My Tech Stack presently includes...</h4>
+[![Linkedin Badge](https://img.shields.io/badge/-Md%20Saifi%20Hassan-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedmdsaifihassan/)](https://www.linkedin.com/in/syedmdsaifihassan/) 
+
+[![Gmail Badge](https://img.shields.io/badge/syedsaifihassan@gmail.com-D02B07?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syedsaifihassan@gmail.com)](mailto:syedsaifihassan@gmail.com)
 
 
-<h5 align='center'> Development</h5>
-<p align='center'>
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/javascript%20-%23e34f26.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/android%20-%23e34f26.svg?&style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
-  
-</p>
-<hr>
-<h5 align='center'> Programming</h5>
-<p align='center'>
-  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/C++%20-%23A8B9CC.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%23A8B9CC.svg?&style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;
-</p>
-<hr>
-<br>
-<h3  align='center'>Find me around the web 🌎 to know more!</h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/syedmdsaifihassan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:syedsaifihassan@gmail.com?subject=Olá%20Juveria"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/syedmdsaifihassan"><img src="https://img.shields.io/badge/instagram-%23E0487F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+> I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
+
+Things I like to do:
+- 🎨 Interfaces
+- 🖥 Web Applications
+- 📱 Applications
+
+About me:
+- ⚡ I'm 21 years old, i'm passionate about coding,technology and games
+- 🌱 I'm currently in a learning mode
+- 💬 Ask me about anything but know that I am passionate about technology
+- ⚡ Fun fact: I am quietly confident, naturally curious and perpetually working to face all the challenges that lie ahead.
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=syedmdsaifihassan&theme=white"  >
+
+**Languages and Tools:**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
